@@ -1,4 +1,4 @@
-# CV - Tuomas
+# CV - Tuomas Puro
 
 Tänne teksiä
 
