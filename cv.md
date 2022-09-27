@@ -1,6 +1,6 @@
 # CV - Tuomas Puro
 
-Tänne teksiä
+Tässä on tuore cv.
 
 ## Harrastukset
 
